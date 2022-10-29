@@ -1,0 +1,6 @@
+﻿  shujujeigo_10_27.c
+D:\gitee\task\task_10_27\task_10_27\shujujeigo_10_27.c(21,14): warning C4047: “=”:“clock_t”与“clock_t (__cdecl *)(void)”的间接级别不同
+D:\gitee\task\task_10_27\task_10_27\shujujeigo_10_27.c(28,14): warning C4047: “=”:“clock_t”与“clock_t (__cdecl *)(void)”的间接级别不同
+shujujeigo_10_27.obj : error LNK2019: 无法解析的外部符号 f1，函数 main 中引用了该符号
+shujujeigo_10_27.obj : error LNK2019: 无法解析的外部符号 f2，函数 main 中引用了该符号
+D:\gitee\task\task_10_27\x64\Debug\task_10_27.exe : fatal error LNK1120: 2 个无法解析的外部命令
